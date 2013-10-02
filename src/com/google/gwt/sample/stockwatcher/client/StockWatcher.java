@@ -42,6 +42,7 @@ public class StockWatcher implements EntryPoint {
 	/**  * Entry point method.  */  
 	
 	// Testing this new commit
+	// Testing another new commit
 	public void onModuleLoad() {  
 		// TODO Create table for stock data.
 		stocksFlexTable.setText(0, 0, "Symbol");
